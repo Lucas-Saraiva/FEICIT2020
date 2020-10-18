@@ -1,59 +1,38 @@
-                              Objetivos:
-                             
-O objetivo do projeto não é ensinar a programar, mas sim mostrar como é simples e
-pratico. Demonstrar 3 exemplos de aplicações bem legais e simples de estar
-fazendo, e deixar também algumas outras indicações como, chute de número e um
-gerenciador de senha.
+					Introdução:
+
+Neste trabalho será apresentado a linguagem de programação Python e por meio da mesma cálculos de IMC, conversão de medidas e escalas serão realizados.
 
 
-                              Metodologia:
+					Objetivos: 
 
-Como já dito, será introduzido a linguagem de programação Python, a qual foi
-escolhida neste estudo, mais especificadamente Python3.9 a ultima versão da
-linguagem. E como ide usaremos o PyCharm versão 2020.2.3, lembrando que a
-linguagem é opcional e Python foi escolhida por ser muito simples e pratica. Para a
-divulgação do projeto, será utilizada a plataforma GitHub onde tenho meus
-repositórios. Os documentos e os scripts estarão no diretório FEICIT2020.
+O objetivo do projeto não é ensinar a programar, mas sim mostrar como é simples e pratico. Demonstrar 3 exemplos de aplicações bem legais e simples de estar fazendo, e deixar também algumas outras indicações como, chute de número e um gerenciador de senha.
 
 
-                              Procedimentos:
+					Metodologia:
 
-Os links que foram apresentados no vídeo, são justamente os do GitHub, juntamente
-com os dos sites que foram utilizados como base para o auxilio dos cálculos,
-também foi citados dois cursos totalmente gratuitos, ambos do Curso em Vídeo, que
-se encontram na bibliografia.
-O procedimento dos códigos em si, foi bem simples, os cálculos foram inseridos
-dentro de variáveis, e pra deixar o programa mais completo utilizei de inputs e
-outputs para assim dar a opção do usuário informar os números a serem
-convertidos.
+Como já dito, será introduzido a linguagem de programação Python, a qual foi escolhida neste estudo, mais especificadamente Python3.9 a ultima versão da linguagem. E como ide usaremos o PyCharm versão 2020.2.3, lembrando que a linguagem é opcional e Python foi escolhida por ser muito simples e pratica. Para a divulgação do projeto, será utilizada a plataforma GitHub onde será armazenado  o projeto. Os documentos e os scripts estarão no diretório FEICIT2020.
 
 
-                              Resultados:
+					Procedimentos
 
-O resultado foi positivo, o software conseguiu compilar corretamente, foi possível
-fazer os cálculos e com isso trazer os resultados corretos, assim foi possível atingir
-o principal objetivo, que no caso era fazer os conversores e a calculadora.
-
-
-                              Conclusão:
-Acredito que o objetivo do projeto foi concluído com êxito, foi possível apresentar
-Python de uma forma simples e pratica. No processo foi também disponibilizado
-links para os que criaram um interesse maior, possam dar continuidade aos estudos.
-Os softwares foram terminados em um tempo bom, e foram bem explicados.
+Os links que foram apresentados no vídeo, são justamente os do GitHub, juntamente com os dos sites que foram utilizados como base para o auxilio dos cálculos, também foi citados dois cursos totalmente gratuitos, ambos do Curso em Vídeo, que se encontram na bibliografia.
+O procedimento dos códigos em si, foi bem simples, os cálculos foram inseridos dentro de variáveis, e para deixar o programa mais completo foi feito a utilização de inputs e outputs para assim dar a opção do usuário informar os números a serem convertidos.
 
 
-                              Bibliografia:
-IMC: Aprenda a calcular e veja a tabela. Minha vida. Disponível em:
-<https://www.minhavida.com.br/alimentacao/tudo-sobre/32159-imc>. Acesso em dia:17/10/2020
+					Resultados: 
 
-Conversão de Centimetros em Metros. Metric-Conversions. Dispo nível em
-:<https://www.metric-conversions.org/pt-br/comprimento/centimetros-em-metros.htm> Acesso em dia: 17/10/2020
+O resultado foi positivo, o software conseguiu compilar corretamente, foi possível fazer os cálculos e com isso trazer os resultados corretos,  assim foi possível atingir o principal objetivo, que no caso era fazer os conversores e a calculadora.
 
-Conversão de Escalas Termométricas. InfoEscola. Disponível em:
-<https://www.infoescola.com/fisica/conversao-de-escalas-termometricas/> Acessoem dia: 17/10/2020
 
-Curso de Python 3 – Mundo 1: Fundamentos. Curso em Vídeo.
-Disponível em: <https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6>
+					Conclusão: 
 
-Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal. Curso em Vídeo. 
-Disponível em: <https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA>
+Acredito que o objetivo do projeto foi concluído com êxito, foi possível apresentar Python de uma forma simples e pratica. No processo foi também disponibilizado links para os que criaram um interesse maior, possam dar continuidade aos estudos. Os softwares foram terminados em um tempo bom, e foram bem explicados.
+
+
+					Bibliografia:
+
+IMC: Aprenda a calcular e veja a tabela. Minha vida. Disponível em: <https://www.minhavida.com.br/alimentacao/tudo-sobre/32159-imc>. Acesso em dia: 17/10/2020
+Conversão de Centimetros em Metros. Metric-Conversions. Dispo	nível em:<https://www.metric-conversions.org/pt-br/comprimento/centimetros-em-metros.htm> Acesso em dia: 17/10/2020
+Conversão de Escalas Termométricas. InfoEscola. Disponível em: <https://www.infoescola.com/fisica/conversao-de-escalas-termometricas/> Acesso em dia: 17/10/2020
+Curso de Python 3 – Mundo 1: Fundamentos. Curso em Vídeo. Disponível em: <https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6>  
+Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal. Curso em Vídeo. Disponível em: <https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA>
